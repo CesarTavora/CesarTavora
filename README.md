@@ -4,10 +4,6 @@
   Estudante de Engenharia de Software
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+CSS+JavaScript;Estudando+todos+os+dias!"/>
-</p>
-
 <br>
 
 <h2>💻 Tecnologias</h2>
